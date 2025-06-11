@@ -33,7 +33,7 @@
         <druid.version>1.2.2</druid.version>
         <dynamic-ds.version>3.5.0</dynamic-ds.version>
         <commons.io.version>2.11.0</commons.io.version>
-        <commons.fileupload.version>1.4</commons.fileupload.version>
+        <commons.fileupload.version>1.6.0</commons.fileupload.version>
         <velocity.version>1.7</velocity.version>
         <fastjson.version>1.2.83</fastjson.version>
         <minio.version>8.2.2</minio.version>
