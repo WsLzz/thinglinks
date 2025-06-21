@@ -33,7 +33,7 @@
         <druid.version>1.2.2</druid.version>
         <dynamic-ds.version>3.5.0</dynamic-ds.version>
         <commons.io.version>2.11.0</commons.io.version>
-        <commons.fileupload.version>1.4</commons.fileupload.version>
+        <commons.fileupload.version>1.6.0</commons.fileupload.version>
         <velocity.version>1.7</velocity.version>
         <fastjson.version>1.2.83</fastjson.version>
         <minio.version>8.2.2</minio.version>
@@ -41,7 +41,7 @@
         <common-pool.version>2.11.1</common-pool.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <jackson.version>2.13.3</jackson.version>
-        <openfeign.version>3.1.2</openfeign.version>
+        <openfeign.version>4.1.4</openfeign.version>
         <tdEngine.version>3.1.0</tdEngine.version>
         <!-- 文件拷贝时的编码 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
